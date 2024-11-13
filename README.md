@@ -1,4 +1,4 @@
-# This is a NFT ERC721 contract that changes its URI dynamically depending upon the BTC price, If the price goes up it changes to a random bull URI and if it goes down it changes to a random bear URI from the URIs provided to the contract.
+This is a NFT ERC721 contract that changes its URI dynamically depending upon the BTC price, If the price goes up it changes to a random bull URI and if it goes down it changes to a random bear URI from the URIs provided to the contract.
 
 Chainlink's VRF is used for the randomisation of the URI
 
